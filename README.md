@@ -17,9 +17,18 @@ in running your code in any other IDE, in fact, chances are they never used anyt
 else before. For all they care, if your code doesn't run when they click the run button on Netbeans,
 your code is broken.
 
+### Installation:
+
+1. Clone the repo
+2. [Install stack](https://docs.haskellstack.org/en/stable/README/)
+3. `stack install`
+4. If ~/.local/bin isn't in your path, make sure to add it
+
+If you get an error saying something about bz2 or whatever, make sure to install `libbz2-dev`
+
 ### Usage:
 
-`i2nzip [project-name]`
+`i2nzip-exe [project-name]`
 
 **Make sure to use this in your project root!**
 
