@@ -37,7 +37,7 @@ and save it as `[project-name].zip` in the same directory. You can then submit i
 canvas or whatever other terrible academics website you're stuck with.
 
 **Important:** This will _not_ copy over anything that's not under `src`. If you're using
-maven or gradle or any other build tool they will not be copied. I made this 
+maven or gradle or any other build tool they will not be copied.
 
 The configuration found under `resources/` is copied over to the zip file when converting.
 ## Known bugs
@@ -46,5 +46,5 @@ The configuration found under `resources/` is copied over to the zip file when c
 If unlike me, you actually use java or netbeans, raise an issue or a pull request and we'll fix it.
 
 * Only `src` is copied over. Not really a bug, I just can't be bothered to add more features
-since I'm only using this for an intro to cs class.
+since I'm only using this for an intro to cs class and we haven't even gotten to build tools yet.
 
