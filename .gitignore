@@ -1,0 +1,5 @@
+.stack-work/
+i2nzip.cabal
+*~
+.idea/
+i2nzip.iml
