@@ -10,9 +10,7 @@ Ah, my sweet summer child... Netbeans only recognizes projects that contains
 Netbeans-specific metadata files as Netbeans projects. 
 
 If your professor told you to only use Netbeans, they're definitely not interested 
-in running your code in any other IDE, in fact, chances are they never used anything
-else before. For all they care, if your code doesn't run when they click the run button on Netbeans,
-your code is broken.
+in running your code in any other IDE.
 
 ### Installation:
 
