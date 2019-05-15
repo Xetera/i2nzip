@@ -1,11 +1,8 @@
 # i2nzip
-###### \- "For this class we will be using Netbeans, you cannot do your homework with other IDEs."
-
-###### \- Oh yeah? We'll see about that.
-
-<hr>
 
 __A tool for converting your intellij projects to a Netbeans friendly format.__
+
+**Important:** This tool currently doesn't support reading files as netbeans and intellij work through a different CWD but I haven't been able to figure out how they're different...
 
 #### Why does this exist? Can't I just export my intellij project as a zip file?
 
